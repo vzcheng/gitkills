@@ -2,3 +2,4 @@
 Creating a new branch is quick
 Switched to new branch 'feature1'
 creating a new branch is quick AND simple
+Creating a new branch
