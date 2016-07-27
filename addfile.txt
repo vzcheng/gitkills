@@ -1,2 +1,7 @@
 It is a file added on dev feature
+<<<<<<< HEAD
 add by bob
+=======
+add by chad
+
+>>>>>>> 5ceb82d6b3bf55690a49a07d28bdcdd9645b277b
